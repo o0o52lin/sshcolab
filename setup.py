@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "remocolab.py",
+    name = "sshcolab.py",
     version = "0.1",
-    py_modules = ['remocolab'],
-    url = "https://github.com/demotomohiro/remocolab",
+    py_modules = ['sshcolab'],
+    url = "https://github.com/o0o52lin/sshcolab",
     author = "demotomohiro",
     install_requires = ["pyngrok"]
 )
